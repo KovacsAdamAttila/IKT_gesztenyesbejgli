@@ -3,6 +3,7 @@
     display: block;
     border: 1px solid;
     box-shadow: 5px 5px 2px black;
+    width: 700px;
 }
 #kezdo{
   letter-spacing: 1px;
@@ -20,4 +21,15 @@ hr{
     margin-right: auto;
     border: 3px solid black;
     border-radius: 4px;
+}
+figcaption{
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+    background-color: bisque;
+}
+#szoveg{
+    color: #db814c;
+    font-style: italic;
+    font-weight: bold;
 }
